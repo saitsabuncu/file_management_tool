@@ -4,7 +4,7 @@ Python öğrenme sürecimde dosya ve klasör işlemlerini, otomasyon mantığın
 
 ## Proje Hakkında
 
-Bu araç, kullanıcının belirlediği bir klasördeki dosyaları uzantılarına göre analiz eder ve dosyaları kategori klasörlerine taşır.
+Bu araç, seçilen klasördeki dosyaları uzantılarına göre kategorilere ayırır ve ilgili klasörlere taşır.
 
 Dosyalar şu kategorilere ayrılır:
 
